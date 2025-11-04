@@ -3,6 +3,10 @@
 /node_modules
 /build
 
+# storage
+/storage/uploads*
+/storage/converted*
+
 # Logs
 logs
 *.log
